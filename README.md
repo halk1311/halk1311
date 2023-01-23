@@ -1,6 +1,6 @@
 #### Hi there ✨
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100"/>
 </div>
 
 Worked as a technical interpreter but then decided to start from scratch. I am now on my way studing ML and feel extremely inspired about it!
