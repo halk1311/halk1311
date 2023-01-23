@@ -1,5 +1,5 @@
 #### Hi there ✨
-I am now on my way studing ML and feel inspired about it!
+Worked as a technical interpreter but then decided to start from scratch. I am now on my way studing ML and feel extremely inspired about it!
 
 #### Education:
 
