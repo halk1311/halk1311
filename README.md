@@ -1,6 +1,12 @@
 #### Hi there ✨
 Worked as a technical interpreter but then decided to start from scratch. I am now on my way studing ML and feel extremely inspired about it!
 
+#### Skills
+
+Python, SQL, regexp, ML
+
+Also a good command of English and great desire to learn
+
 #### Education:
 
 &nbsp;- Computer Linguistics, 2021-2022
