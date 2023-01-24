@@ -1,6 +1,6 @@
 #### Hi there ✨
 
-Worked as a technical interpreter but then decided to start from scratch. I am now on my way studing ML and feel extremely inspired about it!
+Worked as a technical interpreter but then decided to start from scratch. I am now on my way studing ML and feel extremely inspired by it!
 
 #### Skills
 
