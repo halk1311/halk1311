@@ -26,7 +26,7 @@ As a newbie I've only got my own projects so far 🐣
 
 Here they are:
 
-&nbsp;&nbsp;&nbsp;&nbsp;- [Titanic Kaggle Competition]() (hahaha, classic). It is the most recent thing I accomplished. The best result I achieved is 0.77511
+&nbsp;&nbsp;&nbsp;&nbsp;- [Titanic Kaggle Competition](https://github.com/halk1311/newborn/blob/main/titanic.ipynb) (hahaha, classic). It is the most recent thing I accomplished. The best result I achieved is 0.77511
 
 &nbsp;&nbsp;&nbsp;&nbsp;- [Computer Linguistics Final Project](https://github.com/halk1311/newborn/blob/main/Finals.ipynb). 
 It involves building an ML model for classification of the text. The data I used were parsed, the code for data mining is [here](https://github.com/halk1311/newborn#:~:text=%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%BF%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%B0_%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%BE%D0%B2.ipynb).
