@@ -18,7 +18,7 @@ Also a good command of English and great desire to learn
 
 &nbsp;&nbsp;&nbsp;&nbsp;Cherepovets State University
 
-Moreover, now I keep learning and deepen my knowledge in graphs, Python etc. Mostly, I use Stepik, so, you can check out my achievements [there](https://stepik.org/users/49554936?auth=login&preview=true)
+Moreover, now I keep learning and deepen my knowledge in graphs, Python etc. Mostly, I use Stepik, so, you can check out my achievements [there](https://stepik.org/users/49554936)
 
 #### Experience
 
